@@ -1,2 +1,4 @@
-# empower-dreams
-Website for personal details, plans, achievement and future goals.
+# Empower Dreams
+
+-live site
+-[EmpowerDreamsNetlify](hh)
