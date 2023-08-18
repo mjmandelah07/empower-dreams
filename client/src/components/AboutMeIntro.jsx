@@ -51,9 +51,8 @@ export default function About() {
         </div>
         <div className="about-scroll-down">
           <div className="scroll-down">
-            <a href="#about">
+            <a href="#plans">
               <ArrowDown size={36} className="mt-5 mb-3" />
-              <br />
             </a>
           </div>
         </div>
