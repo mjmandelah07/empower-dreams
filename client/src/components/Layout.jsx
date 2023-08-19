@@ -63,7 +63,7 @@ export default function Layout() {
                   <li className="nav-item">
                     <Link
                       className={`nav-link ${scrolling ? "scrolled" : ""}`}
-                      to="#"
+                      to="study-plans"
                     >
                       Study Plans
                     </Link>

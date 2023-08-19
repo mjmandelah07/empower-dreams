@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function StudyPlan() {
+export default function Footer() {
   return (
     <div>
-      Study plan
+      
     </div>
   )
 }

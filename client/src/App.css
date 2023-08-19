@@ -65,6 +65,7 @@ img {
   opacity: 0;
   animation: fadeIn 2s forwards;
 }
+
 /* Keyframes for fade-in animation */
 @keyframes fadeIn {
   0% {
@@ -209,6 +210,15 @@ img {
   color: inherit;
   font-weight: 700;
 }
+.about-title span {
+  position: relative;
+  display: inline;
+  border-bottom: 3px solid var(--light-red);
+  line-height: 1.5;
+}
+
+
+/* footer  */
 
 @media screen and (max-width: 575.98px) {
   /* about section */
@@ -216,6 +226,9 @@ img {
     font-size: 1.2rem;
     line-height: 1;
   }
+
+
+  /* footer */
 }
 
 @media screen and (max-width: 767.98px) {
@@ -304,6 +317,9 @@ img {
     max-width: unset;
     object-position: center bottom;
   }
+
+
+  /* footer */
 }
 
 @media screen and (min-width: 768px) {
@@ -318,4 +334,8 @@ img {
   }
 
   /* about section */
+
+
+
+  /* footer */
 }

@@ -46,7 +46,7 @@ export default function About() {
         </div>
         <div className="about-block-right">
           <div className="about-img">
-            <img src={Headshot} alt="moji" />
+            <img src={Headshot} alt="moji" loading="lazy" />
           </div>
         </div>
         <div className="about-scroll-down">
