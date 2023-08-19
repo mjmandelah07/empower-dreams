@@ -17,7 +17,7 @@ export default function AboutMe() {
         <div className="row my-5">
           <div className="col-md-10">
             <div className="about-content w-100">
-              <h1 className="text-start about-title">
+              <h1 className="text-start about-title fw-bolder">
                 <span>About Me</span>
               </h1>
               <p className="text-normal">

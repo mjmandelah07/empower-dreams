@@ -1,5 +1,5 @@
 import React from "react";
-import Study from "../assets/teaching-tech (1).jpg";
+import Study from "../assets/campus.jpg";
 
 export default function StudyPlans() {
   return (
@@ -13,7 +13,7 @@ export default function StudyPlans() {
         <div className="row my-5">
           <div className="col-md-10">
             <div className="about-content w-100">
-              <h1 className="text-start about-title">
+              <h1 className="text-start about-title fw-bolder">
                 <span>Study Plans</span>
               </h1>
               <p className="text-normal">

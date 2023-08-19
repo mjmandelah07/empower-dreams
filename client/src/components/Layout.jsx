@@ -26,7 +26,7 @@ export default function Layout() {
           scrolling ? "scrolled" : ""
         }`}
       >
-        <div className="container">
+        <div className="">
           <nav className="navbar navbar-expand-lg">
             <div className="container-fluid">
               <Link
